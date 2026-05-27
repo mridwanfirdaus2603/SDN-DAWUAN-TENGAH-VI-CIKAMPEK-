@@ -1,0 +1,6 @@
+{
+  "name": "SDN Dawuan Tengah VI",
+  "description": "Portal Resmi SDN Dawuan Tengah VI Cikampek Karawang dengan Integrasi AI Pendamping Belajar (Neural System Gemini).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
